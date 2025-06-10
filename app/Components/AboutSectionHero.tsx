@@ -23,7 +23,7 @@ const AboutSectionHero = () => {
                     </h2>
 
                     <p className="text-base md:text-sm lg:text-1xl leading-relaxed">
-                        At Billia, we're building more than just a payment app — we're
+                        At Billia, We&apos;re building more than just a payment app — We&apos;re
                         creating a smarter, simpler way for everyday Nigerians to stay
                         connected, pay their bills, and take control of their financial lives.
                     </p>

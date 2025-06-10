@@ -1,5 +1,5 @@
-import Hero from "@/app/Components/Hero";
-import   Main from "@/app/Components/Mainhomecontect"
+import Hero from "../app/Components/Hero";
+import   Main from "../app/Components/Mainhomecontect"
 
 
 export default function Home() {

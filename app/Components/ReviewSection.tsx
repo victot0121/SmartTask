@@ -40,7 +40,7 @@ export default function ReviewSection() {
             </span>
           </div>
           <p className='w-full text-sm md:text-base opacity-60 leading-tight'> 
-            Before Billia, I always missed my PHCN payment dates. Now I get reminders, and I can repeat past payments without filling forms. It's efficient, secure, and perfect for people like me who forget easily.
+            Before Billia, I always missed my PHCN payment dates. Now I get reminders, and I can repeat past payments without filling forms. It&apos;s efficient, secure, and perfect for people like me who forget easily.
           </p>
           <div className='flex items-center justify-between mt-auto'> 
             <p className='opacity-100 text-sm md:text-base'>4 June 2025</p>
@@ -81,7 +81,7 @@ export default function ReviewSection() {
             </span>
           </div>
           <p className='w-full text-sm md:text-base opacity-60 leading-tight'>
-            I was surprised how fast wallet funding worked. I transferred from bank to the Billia virtual account, and the money reflected instantly. I've used it to pay my cable and internet bills ever since.
+            I was surprised how fast wallet funding worked. I transferred from bank to the Billia virtual account, and the money reflected instantly. I&apos;ve used it to pay my cable and internet bills ever since.
           </p>
           <div className='flex items-center justify-between mt-auto'>
             <p className='opacity-100 text-sm md:text-base'>24 April 2025</p>

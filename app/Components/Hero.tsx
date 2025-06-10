@@ -25,7 +25,8 @@ export default function Hero() {
                             <Image
                                 src={playstore}
                                 alt="Google Play Store"
-                                fill="contain"
+                                fill={true} 
+                                className="object-contain" 
                             />
                         </button>
 
@@ -33,7 +34,8 @@ export default function Hero() {
                             <Image
                                 src={storeplay}
                                 alt="Apple App Store"
-                                 fill="contain"
+                                fill={true} 
+                                className="object-contain" 
                             />
                         </button>
                     </div>
